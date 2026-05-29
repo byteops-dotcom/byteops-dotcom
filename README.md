@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**byteops-dotcom/byteops-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vishal 👋
 
-Here are some ideas to get you started:
+💻 DevOps & Cloud Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Java core
+- Docker
+- Kubernetes
+- AWS
+- Linux
+
+🚀 Projects:
+- Hospital Mgmt System
+- DevOps Labs
+
+📫 Connect:
+- LinkedIn: https://www.linkedin.com/in/vishal-barnwal-b4000226b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+## 🛠 Skills
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
