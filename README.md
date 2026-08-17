@@ -12,7 +12,8 @@
 - Linux
 
 🚀 Projects:
-- Hospital Mgmt System
+- Flask App
+- Personal Portfolio
 - DevOps Labs
 
 📫 Connect:
